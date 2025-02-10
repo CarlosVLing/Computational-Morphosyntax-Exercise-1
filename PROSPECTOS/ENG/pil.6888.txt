@@ -1,0 +1,707 @@
+Package leaflet: Information for the user
+OPDIVO 10 mg/mL concentrate for solution for infusion
+nivolumab
+Read all of this leaflet carefully before you start using this medicine because it contains
+important information for you.
+- Keep this leaflet. You may need to read it again.
+- It is important that you keep the alert card with you during treatment.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in
+this leaflet. See section 4.
+What is in this leaflet
+1.
+2.
+3.
+4.
+5.
+6.
+
+What OPDIVO is and what it is used for
+What you need to know before you use OPDIVO
+How to use OPDIVO
+Possible side effects
+How to store OPDIVO
+Contents of the pack and other information
+
+1.
+
+What OPDIVO is and what it is used for
+
+OPDIVO is a medicine used to treat:
+▪ advanced melanoma (a type of skin cancer) in adults and adolescents 12 years of age and older
+▪ melanoma after complete resection in adults and adolescents 12 years of age and older (treatment
+after surgery is called adjuvant therapy)
+▪ non-small cell lung cancer (a type of lung cancer) prior to resection in adults (treatment prior to
+surgery is called neoadjuvant therapy)
+▪ advanced non-small cell lung cancer (a type of lung cancer) in adults
+▪ malignant pleural mesothelioma (a type of cancer that affects the lining of the lung) in adults
+▪ advanced renal cell carcinoma (advanced kidney cancer) in adults
+▪ classical Hodgkin lymphoma that has come back after or has not responded to previous therapies,
+including an autologous stem-cell transplant (a transplant of your own blood-producing cells) in
+adults
+▪ advanced cancer of the head and neck in adults
+▪ advanced urothelial carcinoma (bladder and urinary tract cancer) in adults
+▪ urothelial carcinoma after complete resection in adults
+▪ advanced colorectal cancer (colon or rectal cancer) in adults
+▪ advanced oesophageal cancer (gullet cancer) in adults
+▪ oesophageal (gullet) or gastro-oesophageal junction cancer with residual disease after
+chemoradiation followed by surgery in adults
+▪ advanced gastric, gastro-oesophageal junction or oesophageal adenocarcinoma (stomach or gullet
+cancer) in adults.
+It contains the active substance nivolumab, which is a monoclonal antibody, a type of protein designed
+to recognise and attach to a specific target substance in the body.
+Nivolumab attaches to a target protein called programmed death-1 receptor (PD-1) that can switch off
+the activity of T cells (a type of white blood cell that forms part of the immune system, the body’s
+natural defences). By attaching to PD-1, nivolumab blocks its action and prevents it from switching
+off your T cells. This helps increase their activity against the melanoma, lung, kidney, lymphoid, head
+and neck, bladder, colon, rectal, stomach, oesophageal or gastro-oesophageal junction cancer cells.
+
+1
+
+OPDIVO may be given in combination with other anti-cancer medicines. It is important that you also
+read the package leaflet for these other medicines. If you have any questions about these medicines,
+please ask your doctor.
+
+2.
+
+What you need to know before you use OPDIVO
+
+You should not be given OPDIVO
+▪ if you are allergic to nivolumab or any of the other ingredients of this medicine (listed in section 6
+"Contents of the pack and other information"). Talk to your doctor if you are not sure.
+Warnings and precautions
+Talk to your doctor before using OPDIVO as it may cause:
+▪ Problems with your heart such as a change in the rhythm or rate of the heartbeat or an abnormal
+heart rhythm.
+▪ Problems with your lungs such as breathing difficulties or cough. These may be signs of
+inflammation of the lungs (pneumonitis or interstitial lung disease).
+▪ Diarrhoea (watery, loose or soft stools) or any symptoms of inflammation of the intestines
+(colitis), such as stomach pain and mucus or blood in stool.
+▪ Inflammation of the liver (hepatitis). Signs and symptoms of hepatitis may include abnormal
+liver function tests, eye or skin yellowing (jaundice), pain on the right side of your stomach area,
+or tiredness.
+▪ Inflammation or problems with your kidneys. Signs and symptoms may include abnormal
+kidney function tests, or decreased volume of urine.
+▪ Problems with your hormone producing glands (including the pituitary, the thyroid, the
+parathyroid and adrenal glands) that may affect how these glands work. Signs and symptoms that
+these glands are not working properly may include fatigue (extreme tiredness), weight change or
+headache, decreased blood levels of calcium and visual disturbances.
+▪ Diabetes including a serious, sometimes life-threatening problem due to acid in the blood
+produced from diabetes (diabetic ketoacidosis). Symptoms may include feeling more hungry or
+thirsty than usual, need to urinate more often, weight loss, feeling tired or having difficulty
+thinking clearly, breath that smells sweet or fruity, a sweet or metallic taste in your mouth, or a
+different odour to your urine or sweat, feeling sick or being sick, stomach pain, and deep or fast
+breathing.
+▪ Inflammation of the skin that can lead to severe skin reaction (known as toxic epidermal
+necrolysis and Stevens-Johnson syndrome). Signs and symptoms of severe skin reaction may
+include rash, itching, and peeling of the skin (possibly fatal).
+▪ Inflammation of the muscles such as myocarditis (inflammation of the heart muscle), myositis
+(inflammation of the muscles) and rhabdomyolysis (stiffness in muscles and joints, muscle
+spasm). Signs and symptoms may include muscle pain, stiffness, weakness, chest pain, or severe
+fatigue.
+▪ Solid organ transplant rejection.
+▪ Graft-versus-host disease.
+▪ Haemophagocytic lymphohistiocytosis. A rare disease in which our immune system makes too
+many of otherwise normal infection fighting cells called histiocytes and lymphocytes. Symptoms
+may include enlarged liver and/or spleen, skin rash, lymph node enlargement, breathing problems,
+easy bruising, kidney abnormalities, and heart problems.
+Tell your doctor immediately if you have any of these signs or symptoms or if they get worse. Do
+not try to treat your symptoms with other medicines on your own. Your doctor may
+▪ give you other medicines in order to prevent complications and reduce your symptoms,
+▪ withhold the next dose of OPDIVO,
+▪ or stop your treatment with OPDIVO altogether.
+Please note that these signs and symptoms are sometimes delayed, and may develop weeks or months
+after your last dose. Before treatment, your doctor will check your general health. You will also have
+blood tests during your treatment.
+
+2
+
+Check with your doctor or nurse before you are given OPDIVO if:
+▪ you have an autoimmune disease (a condition where the body attacks its own cells);
+▪ you have melanoma of the eye;
+▪ you were previously given ipilimumab, another medicine for treating melanoma, and experienced
+serious side effects because of that medicine;
+▪ you have been told that your cancer has spread to your brain;
+▪ you have any history of inflammation of the lungs;
+▪ you have been taken medicines to suppress your immune system.
+Complications of stem cell transplant that uses donor stem cells (allogeneic) after treatment with
+OPDIVO. These complications can be severe and can lead to death. Your healthcare provider will
+monitor you for signs of complications if you have an allogeneic stem cell transplant.
+Children and adolescents
+OPDIVO should not be used in children and adolescents below 18 years of age except for adolescents
+12 years of age and older with melanoma.
+Other medicines and OPDIVO
+Before you are given OPDIVO, tell your doctor if you are taking any medicines that suppress your
+immune system, such as corticosteroids, since these medicines may interfere with the effect of
+OPDIVO. However, once you are treated with OPDIVO, your doctor may give you corticosteroids to
+reduce any possible side effects that you may have during your treatment and this will not impact the
+effect of the medicine.
+Tell your doctor if you are taking or have recently taken any other medicines. Do not take any other
+medicines during your treatment without talking to your doctor first.
+Pregnancy and breast-feeding
+Tell your doctor if you are pregnant or think you might be, if you are planning to become pregnant,
+or if you are breast-feeding.
+Do not use OPDIVO if you are pregnant unless your doctor specifically tells you to. The effects of
+OPDIVO in pregnant women are not known, but it is possible that the active substance, nivolumab,
+could harm an unborn baby.
+▪ You must use effective contraception while you are being treated with OPDIVO and for at least
+5 months following the last dose of OPDIVO, if you are a woman who could become pregnant.
+▪ If you become pregnant while using OPDIVO tell your doctor.
+It is not known whether OPDIVO gets into breast milk. A risk to the breast-fed infant cannot be
+excluded. Ask your doctor if you can breast-feed during or after treatment with OPDIVO.
+Driving and using machines
+OPDIVO or OPDIVO in combination with ipilimumab may have a minor influence on the ability to
+drive and use machines; however, use caution when performing these activities until you are sure that
+OPDIVO does not adversely affect you.
+OPDIVO contains sodium
+Tell your doctor if you are on a low-sodium (low-salt) diet before you are given OPDIVO. This
+medicine contains 2.5 mg sodium (main component of cooking/table salt) in each mL of concentrate.
+OPDIVO contains 10 mg sodium per 4 ml vial, 25 mg sodium per 10 ml vial, 30 mg sodium per 12 ml
+vial or 60 mg sodium per 24 ml vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of
+the recommended maximum daily dietary intake of sodium for an adult.
+You will also find key messages from this package leaflet in the patient alert card you have been given
+by your doctor. It is important that you keep this patient alert card and show it to your partner or
+caregivers.
+
+3
+
+3.
+
+How to use OPDIVO
+
+How much OPDIVO is given
+When OPDIVO is given on its own, the recommended dose is either 240 mg given every 2 weeks or
+480 mg given every 4 weeks depending on indication.
+When OPDIVO is given on its own, for the treatment of skin cancer in adolescents 12 years of age and
+older and weighing at least 50 kg, the recommended dose is either 240 mg given every 2 weeks or 480
+mg given every 4 weeks. For adolescents 12 years of age and older and weighing less than 50 kg, the
+recommended dose is either 3 mg of nivolumab per kilogram of your body weight given every 2
+weeks or 6 mg of nivolumab per kilogram of your body weight given every 4 weeks.
+When OPDIVO is given in combination with ipilimumab for the treatment of skin cancer in adults and
+adolescents 12 years of age and older, the recommended dose of OPDIVO is 1 mg of nivolumab per
+kilogram of your body weight for the first 4 doses (combination phase). Thereafter the recommended
+dose of OPDIVO (single agent phase) is 240 mg given every 2 weeks or 480 mg given every 4 weeks
+in adults and adolescents 12 years of age and older and weighing at least 50 kg or 3 mg of nivolumab
+per kilogram of your body weight given every 2 weeks or 6 mg of nivolumab per kilogram of your
+body weight given every 4 weeks for adolescents 12 years of age and older and weighing less than 50
+kg.
+When OPDIVO is given in combination with ipilimumab for the treatment of advanced kidney cancer,
+the recommended dose of OPDIVO is 3 mg of nivolumab per kilogram of your body weight for the
+first 4 doses (combination phase). Thereafter, the recommended dose of OPDIVO is 240 mg given
+every 2 weeks or 480 mg given every 4 weeks (single-agent phase).
+When OPDIVO is given in combination with ipilimumab for the treatment of advanced colon or rectal
+cancer, the recommended dose of OPDIVO is 3 mg of nivolumab per kilogram of your body weight
+for the first 4 doses (combination phase). Thereafter, the recommended dose of OPDIVO is 240 mg
+given every 2 weeks (single-agent phase).
+When OPDIVO is given in combination with ipilimumab for the treatment of malignant pleural
+mesothelioma, the recommended dose of OPDIVO is 360 mg every 3 weeks.
+When OPDIVO is given in combination with chemotherapy for the neoadjuvant treatment of nonsmall cell lung cancer, the recommended dose of OPDIVO is 360 mg every 3 weeks.
+When OPDIVO is given in combination with ipilimumab for the treatment of advanced oesophageal
+cancer, the recommended dose of OPDIVO is 3 mg of nivolumab per kilogram of your body weight
+every 2 weeks or 360 mg every 3 weeks.
+When OPDIVO is given in combination with chemotherapy for the treatment of advanced
+oesophageal cancer, the recommended dose of OPDIVO is 240 mg every 2 weeks or 480 mg every
+4 weeks.
+When OPDIVO is given in combination with chemotherapy for the treatment of advanced gastric,
+gastro-oesophageal junction or oesophageal adenocarcinoma, the recommended dose of OPDIVO
+is 360 mg every 3 weeks or 240 mg every 2 weeks.
+When OPDIVO is given in combination with ipilimumab and chemotherapy for the treatment of
+advanced non-small cell lung cancer, the recommended dose of OPDIVO is 360 mg every 3 weeks.
+After completion of 2 cycles of chemotherapy, OPDIVO is given in combination with ipilimumab, the
+recommended dose of OPDIVO is 360 mg every 3 weeks.
+When OPDIVO is given in combination with chemotherapy for the treatment of urothelial carcinoma,
+the recommended dose of OPDIVO is 360 mg nivolumab every 3 weeks for up to 6 cycles followed
+
+4
+
+by nivolumab monotherapy administered intravenously at either 240 mg every 2 weeks or at 480 mg
+every 4 weeks.
+When OPDIVO is given in combination with cabozantinib for the treatment of advanced kidney
+cancer, the recommended dose of OPDIVO is 240 mg given every 2 weeks or 480 mg given every
+4 weeks.
+Depending on your dose, the appropriate amount of OPDIVO will be diluted with sodium
+chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection
+before use. More than one vial of OPDIVO may be necessary to obtain the required dose.
+How OPDIVO is given
+You will receive treatment with OPDIVO in a hospital or clinic, under the supervision of an
+experienced doctor.
+OPDIVO will be given to you as an infusion (a drip) into a vein (intravenously) over a period of 30 or
+60 minutes, every 2 weeks or 4 weeks, depending on the dose you are receiving. Your doctor will
+continue giving you OPDIVO for as long as you keep benefitting from it or until you no longer
+tolerate the treatment.
+When OPDIVO is given in combination with ipilimumab for the treatment of skin, advanced kidney or
+advanced colon or rectal cancer, you will be given an infusion over a period of 30 minutes,
+every 3 weeks for the first 4 doses (combination phase). Thereafter it will be given as an infusion over
+a period of 30 or 60 minutes, every 2 weeks or 4 weeks, depending on the dose you are receiving
+(single-agent phase).
+When OPDIVO is given in combination with ipilimumab for the treatment of malignant pleural
+mesothelioma, you will be given an infusion over a period of 30 minutes, every 3 weeks.
+When OPDIVO is given in combination with chemotherapy for the neoadjuvant treatment of nonsmall cell lung cancer, you will be given an infusion over a period of 30 minutes, every 3 weeks.
+When OPDIVO is given in combination with ipilimumab for the treatment of advanced oesophageal
+cancer, you will be given an infusion over a period of 30 minutes, every 2 or 3 weeks, depending on
+the dose you are receiving.
+When OPDIVO is given in combination with chemotherapy for the treatment of advanced
+oesophageal cancer, you will be given an infusion over a period of 30 minutes, every 2 or 4 weeks,
+depending on the dose you are receiving.
+When OPDIVO is given in combination with chemotherapy for the treatment of advanced gastric,
+gastro-oesophageal junction or oesophageal adenocarcinoma, you will be given an infusion over a
+period of 30 minutes every 3 weeks or every 2 weeks, depending on the dose you are receiving.
+When OPDIVO is given in combination with chemotherapy for the treatment of urothelial
+carcinoma, you will be given an infusion over a period of 30 minutes every 2, 3 or 4 weeks,
+depending on the dose you are receiving.
+
+When OPDIVO is given in combination with ipilimumab and chemotherapy for the treatment of
+advanced non-small cell lung cancer, you will be given an infusion over a period of 30 minutes,
+every 3 weeks.
+When OPDIVO is given in combination with cabozantinib, you will be given an infusion over a period
+of 30 minutes or 60 minutes, every 2 weeks or 4 weeks, depending on the dose you are receiving.
+
+5
+
+If you miss a dose of OPDIVO
+It is very important for you to keep all your appointments to receive OPDIVO. If you miss an
+appointment, ask your doctor when to schedule your next dose.
+If you stop using OPDIVO
+Stopping your treatment may stop the effect of the medicine. Do not stop treatment with OPDIVO
+unless you have discussed this with your doctor.
+If you have any further questions about your treatment or on the use of this medicine, ask your doctor.
+When OPDIVO is given in combination with other anti-cancer medicines, you will first be given
+OPDIVO followed by the other medicine.
+Please refer to the package leaflet of these other medicines in order to understand the use of these
+medicines. If you have questions about them, please ask your doctor.
+
+4.
+
+Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Your
+doctor will discuss these with you and will explain the risks and benefits of your treatment.
+Be aware of important symptoms of inflammation. OPDIVO acts on your immune system and may
+cause inflammation in parts of your body. Inflammation may cause serious damage to your body and
+some inflammatory conditions may be life-threatening and need treatment or withdrawal of OPDIVO.
+The following side effects have been reported with OPDIVO alone:
+Very common (may affect more than 1 in 10 people)
+▪ Infections of the upper respiratory tract
+▪ A decreased number of red blood cells (which carry oxygen), white blood cells (which are
+important in fighting infection) or platelets (cells which help the blood to clot)
+▪ Decreased appetite, high sugar levels in the blood (hyperglycaemia)
+▪ Headache
+▪ Shortness of breath (dyspnoea), cough
+▪ Diarrhoea (watery, loose or soft stools), vomiting, nausea, stomach pain, constipation
+▪ Skin rash sometimes with blisters, itching
+▪ Pain in the muscles, bones (musculoskeletal pain) and joints (arthralgia)
+▪ Feeling tired or weak, fever
+Common (may affect up to 1 in 10 people)
+▪ Serious lung infection (pneumonia), bronchitis
+▪ Reactions related to the infusion of the medicine, allergic reaction (including life-threatening
+allergic reaction)
+▪ Underactive thyroid gland (which can cause tiredness or weight gain), overactive thyroid gland
+(which can cause rapid heart rate, sweating and weight loss), swelling of the thyroid gland
+▪ Dehydration, decrease in body weight, low sugar levels in the blood (hypoglycaemia)
+▪ Inflammation of the nerves (causing numbness, weakness, tingling or burning pain of the arms and
+legs), dizziness
+▪ Blurred vision, dry eyes
+▪ Fast heart rate, abnormal heart rhythm
+▪ High blood pressure (hypertension)
+▪ Inflammation of the lungs (pneumonitis, characterised by coughing and difficulty breathing), fluid
+around the lungs
+▪ Inflammation of the intestines (colitis), mouth ulcers and cold sores (stomatitis), dry mouth
+▪ Skin colour change in patches (vitiligo), dry skin, redness of the skin, unusual hair loss or thinning
+▪ Inflammation of the joints (arthritis)
+6
+
+▪
+▪
+
+Kidney failure (including abrupt loss of kidney function)
+Pain, chest pain, oedema (swelling)
+
+Uncommon (may affect up to 1 in 100 people)
+▪ Increase in some white blood cells
+▪ Chronic diseases associated with a build-up of inflammatory cells in various organs and tissues,
+most commonly the lungs (sarcoidosis)
+▪ Decreased secretion of hormones produced by adrenal glands (glands situated above the kidneys),
+underactive function (hypopituitarism) or inflammation (hypophysitis) of the pituitary gland
+situated at the base of the brain, diabetes
+▪ Increased acid levels in the blood (metabolic acidosis)
+▪ Damage to nerves causing numbness and weakness (polyneuropathy), inflammation of the nerves
+caused by the body attacking itself, causing numbness, weakness, tingling or burning pain
+(autoimmune neuropathy)
+▪ Inflammation of the eye (which causes pain and redness)
+▪ Inflammation of the heart muscle, inflammation of the covering of the heart and accumulation of
+fluid around the heart (pericardial disorders), changes in the rhythm or rate of the heartbeat
+▪ Fluid in the lungs
+▪ Inflammation of the pancreas (pancreatitis), inflammation of the stomach (gastritis)
+▪ Inflammation of the liver (hepatitis), blockage of bile ducts (cholestasis)
+▪ Skin disease with thickened patches of red skin, often with silvery scales (psoriasis), severe
+condition of the skin that causes red, often itchy spots, similar to the rash of measles, which starts
+on the limbs and sometimes on the face and the rest of the body (erythema multiforme), hives
+(itchy, bumpy rash)
+▪ Inflammation of the muscles causing pain or stiffness (polymyalgia rheumatica)
+Rare (may affect up to 1 in 1000 people)
+▪ A temporary and reversible non-infectious inflammation of the protective membranes surrounding
+the brain and spinal cord (aseptic meningitis)
+▪ A disease causing the inflammation or enlargement of a lymph node (Kikuchi lymphadenitis)
+▪ Acid in the blood produced from diabetes (diabetic ketoacidosis), decreased function of the
+parathyroid gland
+▪ A temporary inflammation of the nerves that causes pain, weakness, and paralysis in the
+extremities (Guillain-Barré syndrome), loss of the protective sheath around nerves
+(demyelination), a condition in which the muscles become weak and tire easily (myasthenic
+syndrome)
+▪ Inflammation of the brain
+▪ Inflammatory disease of blood vessels
+▪ Ulcer of the small intestines
+▪ Severe and possibly fatal peeling of the skin (toxic epidermal necrolysis or Stevens-Johnson
+syndrome), skin condition of the face where the nose and cheeks are unusually red (rosacea)
+▪ Disease in which the immune system attacks the glands that make moisture for the body, such as
+tears and saliva (Sjogren’s syndrome), aching muscles, muscle tenderness or weakness, not caused
+by exercise (myopathy), inflammation of the muscles (myositis), stiffness in muscles and joints,
+muscle spasm (rhabdomyolysis)
+▪ Inflammation of the kidney, inflammation of the bladder, signs and symptoms may include
+frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower
+abdomen
+▪ Lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
+▪ Coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after
+consuming gluten-containing foods)
+Other side effects that have been reported with frequency not known (cannot be estimated from
+the available data):
+▪ A condition where the immune system makes too many infection-fighting cells called histiocytes
+and lymphocytes that may cause various symptoms (called haemophagocytic lymphohistiocytosis)
+▪ Solid organ transplant rejection
+7
+
+▪
+▪
+▪
+▪
+
+A group of metabolic complications occurring after cancer treatment characterised by high blood
+levels of potassium and phosphate, and low blood levels of calcium (tumour lysis syndrome)
+An inflammatory disorder (most likely of autoimmune origin) affecting the eyes, skin and the
+membranes of the ears, brain and spinal cord (Vogt-Koyanagi-Harada syndrome)
+Pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including
+needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation
+(myelitis/transverse myelitis)
+Changes in any area of the skin and/or genital area that are associated with drying out, thinning,
+itching and pain (lichen sclerosus or other lichen disorders)
+
+The following side effects have been reported with OPDIVO in combination with other anti-cancer
+medicines (the frequency and severity of side effects may vary with the combination of anti-cancer
+medicines received):
+Very common (may affect more than 1 in 10 people)
+▪ Infections of the upper respiratory tract
+▪ A decreased number of red blood cells (which carry oxygen), white blood cells (which are
+important in fighting infection) or platelets (cells which help the blood to clot)
+▪ Underactive thyroid gland (which can cause tiredness or weight gain), overactive thyroid gland
+(which can cause rapid heart rate, sweating and weight loss)
+▪ Decreased appetite, decrease in body weight, decreased levels of albumin in the blood, high
+(hyperglycaemia) or low (hypoglycaemia) sugar levels in the blood
+▪ Inflammation of the nerves (causing numbness, weakness, tingling or burning pain of the arms and
+legs), headache, dizziness, altered sense of taste
+▪ High blood pressure (hypertension)
+▪ Shortness of breath (dyspnoea), cough, abnormal speaking sound (dysphonia)
+▪ Diarrhoea (watery, loose or soft stools), constipation, vomiting, nausea, stomach pain, mouth
+ulcers and cold sores (stomatitis), indigestion (dyspepsia)
+▪ Skin rash sometimes with blisters, itching, pain of the hands or soles of the feet: rash or redness of
+the skin, tingling and tenderness developing to symmetrical redness, swelling and pain primarily
+on the palm of the hand and sole of the foot (palmar-plantar erythrodysaesthaesia syndrome)
+▪ Pain in the joints (arthralgia), pain in the muscles and bones (musculoskeletal pain), muscle spasm
+▪ Excess protein in urine
+▪ Feeling tired or weak, fever, oedema (swelling)
+Common (may affect up to 1 in 10 people)
+▪ Serious lung infection (pneumonia), bronchitis, inflammation of the eye (conjunctivitis)
+▪ Increase in some white blood cells, decrease in neutrophils with fever
+▪ Allergic reaction (including life-threatening allergic reaction), reactions related to the infusion of
+the medicine
+▪ Decreased secretion of hormones produced by adrenal glands (glands situated above the kidneys),
+underactive function (hypopituitarism) or inflammation (hypophysitis) of the pituitary gland
+situated at the base of the brain, swelling of the thyroid gland, diabetes
+▪ Dehydration, decreased levels of phosphate in the blood
+▪ Sensations like numbness and tingling (paraesthesia)
+▪ Hearing a persistent sound in your ear when no sound exists (tinnitus)
+▪ Blurred vision, dry eye
+▪ Fast heart rate, abnormal heart rhythm
+▪ Formation of a blood clot within a blood vessel (thrombosis), inflammatory disease of blood
+vessels
+▪ Inflammation of the lungs (pneumonitis, characterised by coughing and difficulty breathing), fluid
+around the lungs, blood clots, nose bleeding
+▪ Inflammation of the intestines (colitis), inflammation of the pancreas (pancreatitis), dry mouth,
+inflammation of the stomach (gastritis), oral pain, haemorrhoids (piles)
+▪ Inflammation of the liver
+
+8
+
+▪
+▪
+▪
+▪
+▪
+
+Skin colour change in patches (including vitiligo), redness of the skin, unusual hair loss or
+thinning, hair colour change, hives (itchy rash), discolouration or abnormal darkening of the skin
+(skin hyperpigmentation), dry skin
+Inflammation of the joints (arthritis), muscle weakness, aching muscles
+Kidney failure (including abrupt loss of kidney function)
+Pain, chest pain, chills
+Feeling generally unwell (malaise)
+
+Uncommon (may affect up to 1 in 100 people)
+▪ Acid in the blood produced from diabetes (diabetic ketoacidosis)
+▪ Increased acid levels in the blood
+▪ A temporary inflammation of the nerves that causes pain, weakness and paralysis in the
+extremities (Guillain-Barré syndrome); damage to nerves causing numbness and weakness
+(polyneuropathy); foot drop (peroneal nerve palsy); inflammation of the nerves caused by the
+body attacking itself, causing numbness, weakness, tingling or burning pain (autoimmune
+neuropathy); muscle weakness and tiredness without atrophy (myasthenia gravis or syndrome)
+▪ Inflammation of the brain
+▪ Inflammation of the eye (which causes pain and redness)
+▪ Changes in the rhythm or rate of the heartbeat, slow heart rate, inflammation of the heart muscle
+▪ Intestinal perforation, inflammation of the duodenum, burning or painful sensation in the tongue
+(glossodynia)
+▪ Severe and possibly fatal peeling of the skin (Stevens-Johnson syndrome), skin disease with
+thickened patches of red skin, often with silvery scales (psoriasis), severe condition of the skin that
+causes red, often itchy spots, similar to the rash of measles, which starts on the limbs and
+sometimes on the face and the rest of the body (erythema multiforme)
+▪ Muscle tenderness or weakness, not caused by exercise (myopathy), inflammation of the muscles
+(myositis), stiffness in muscles and joints, inflammation of the muscles causing pain or stiffness
+(polymyalgia rheumatica), bone damage in the jaw, abnormal opening between two body parts,
+such as an organ or blood vessel and another structure (fistula)
+▪ Inflammation of the kidney, inflammation of the bladder, signs and symptoms may include
+frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower
+abdomen
+Rare (may affect up to 1 in 1000 people)
+▪ Temporary and reversible non-infectious inflammation of the protective membranes surrounding
+the brain and spinal cord (aseptic meningitis)
+▪ Chronic diseases associated with a build-up of inflammatory cells in various organs and tissues,
+most commonly the lungs (sarcoidosis)
+▪ Decreased function of the parathyroid gland
+▪ A group of metabolic complications occurring after cancer treatment characterised by high blood
+levels of potassium and phosphate, and low blood levels of calcium (tumour lysis syndrome)
+▪ An inflammatory disorder (most likely of autoimmune origin) affecting the eyes, skin and the
+membranes of the ears, brain and spinal cord (Vogt-Koyanagi-Harada syndrome)
+▪ Inflammation of the nerves
+▪ Pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including
+needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation
+(myelitis/transverse myelitis)
+▪ Severe and possibly fatal peeling of the skin (toxic epidermal necrolysis), changes in any area of
+the skin and/or genital area that are associated with drying out, thinning, itching and pain (lichen
+sclerosus or other lichen disorders)
+▪ Chronic disease of joints (spondyloarthropathy), disease in which the immune system attacks the
+glands that make moisture for the body, such as tears and saliva (Sjogren’s syndrome), muscle
+spasm (rhabdomyolysis)
+▪ Lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
+▪ Coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after
+consuming gluten-containing foods)
+
+9
+
+Other side effects that have been reported with frequency not known (cannot be estimated from
+the available data):
+▪ A condition where the immune system makes too many infection-fighting cells called histiocytes
+and lymphocytes that may cause various symptoms (called haemophagocytic lymphohistiocytosis)
+▪ Solid organ transplant rejection
+▪ Inflammation of the covering of the heart and accumulation of fluid around the heart (pericardial
+disorders)
+Tell your doctor immediately if you get any of the side effects listed above. Do not try to treat your
+symptoms with other medicines on your own.
+Changes in test results
+OPDIVO alone or in combination may cause changes in the results of tests carried out by your doctor.
+These include:
+▪ Abnormal liver function tests (increased amounts of the liver enzymes aspartate aminotransferase,
+alanine aminotransferase, gamma-glutamyltransferase, or alkaline phosphatase in your blood,
+higher blood levels of the waste product bilirubin)
+▪ Abnormal kidney function tests (increased amounts of creatinine in your blood)
+▪ An increased level of the enzyme that breaks down fats and of the enzyme that breaks down starch
+▪ Increased or decreased amount of calcium or potassium
+▪ Increased or decreased blood levels of magnesium or sodium
+▪ Increased amount of thyroid stimulating hormone
+▪ Increase in blood triglyceride levels in the blood
+▪ Increase in cholesterol levels in the blood
+Reporting of side effects
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in
+this leaflet. You can also report side effects directly (see details below). By reporting side effects you
+can help provide more information on the safety of this medicine.
+Yellow Card Scheme Website: http://www.mhra.gov.uk/yellowcard
+or search for MHRA Yellow Card in the Google Play or Apple App Store
+
+5.
+
+How to store OPDIVO
+
+Keep this medicine out of the sight and reach of children.
+Do not use this medicine after the expiry date which is stated on the carton and the vial label after
+EXP. The expiry date refers to the last day of that month.
+Store in a refrigerator (2°C to 8°C).
+Do not freeze.
+Store in the original package in order to protect from light.
+The unopened vial can be stored at controlled room temperature up to 25°C with room light for up to
+48 hours.
+Do not store any unused portion of the infusion solution for reuse. Any unused medicine or waste
+material should be disposed of in accordance with local requirements.
+
+6.
+
+Contents of the pack and other information
+
+What OPDIVO contains
+▪ The active substance is nivolumab.
+Each mL of concentrate for solution for infusion contains 10 mg of nivolumab.
+
+10
+
+Each vial contains either 40 mg (in 4 mL), 100 mg (in 10 mL), 120 mg (in 12 mL) or 240 mg
+(in 24 mL) of nivolumab.
+▪
+
+The other ingredients are sodium citrate dihydrate, sodium chloride (see section 2 "OPDIVO
+contains sodium"), mannitol (E421), pentetic acid, polysorbate 80 (E433), sodium hydroxide,
+hydrochloric acid and water for injections.
+
+What OPDIVO looks like and contents of the pack
+OPDIVO concentrate for solution for infusion (sterile concentrate) is a clear to opalescent, colourless
+to pale yellow liquid that may contain few light particles.
+It is available in packs containing either 1 vial of 4 mL, 1 vial of 10 mL, 1 vial of 12 mL or 1 vial
+of 24 mL.
+Not all pack sizes may be marketed.
+Marketing Authorisation Holder
+Bristol-Myers Squibb Pharma EEIG
+Plaza 254
+Blanchardstown Corporate Park 2
+Dublin 15, D15 T867
+Ireland
+Manufacturer
+Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics
+Cruiserath Road, Mulhuddart
+Dublin 15, D15 H6EF
+Ireland
+This leaflet was last revised in July 2024
+
+The following information is intended for healthcare professionals only:
+Preparation and administration of OPDIVO
+Preparation should be performed by trained personnel in accordance with good practices rules,
+especially with respect to asepsis.
+Calculating the dose
+More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
+Nivolumab monotherapy
+The prescribed dose for adults is 240 mg or 480 mg given regardless of body weight depending on
+indication.
+Melanoma (advanced or adjuvant treatment) in adolescents. The prescribed dose for
+adolescents 12 years of age and older weighing at least 50 kg is 240 mg or 480 mg. For
+adolescents 12 years of age and older and weighing less than 50 kg the prescribed dose is given in
+mg/kg. Based on this prescribed dose, calculate the total dose to be given.
+▪ The total nivolumab dose in mg = the patient’s weight in kg × the prescribed dose in mg/kg.
+▪ The volume of OPDIVO concentrate to prepare the dose (mL) = the total nivolumab dose in mg,
+divided by 10 (the OPDIVO concentrate strength is 10 mg/mL).
+Nivolumab in combination with ipilimumab
+
+11
+
+The prescribed dose for the patient is given in mg/kg. Based on this prescribed dose, calculate the
+total dose to be given (please see above).
+Nivolumab in combination with ipilimumab in malignant pleural mesothelioma
+The prescribed dose for the patient is 360 mg given regardless of body weight.
+
+Nivolumab in combination with ipilimumab in advanced oesophageal cancer
+The prescribed dose for the patient can be based on body weight (3 mg/kg) or is 360 mg given
+regardless of body weight.
+Nivolumab in combination with chemotherapy in advanced oesophageal cancer
+The prescribed dose for the patient is 240 mg or 480 mg given regardless of body weight.
+Nivolumab in combination with chemotherapy in gastric, gastro-oesophageal junction or oesophageal
+adenocarcinoma
+The prescribed dose for the patient is 360 mg or 240 mg given regardless of body weight.
+Nivolumab in combination with ipilimumab and chemotherapy
+The prescribed dose for the patient is 360 mg given regardless of body weight.
+Nivolumab in combination with cabozantinib
+The prescribed dose for the patient is nivolumab 240 mg or 480 mg given regardless of body weight.
+Preparing the infusion
+Take care to ensure aseptic handling when you prepare the infusion.
+OPDIVO can be used for intravenous administration either:
+▪ without dilution, after transfer to an infusion container using an appropriate sterile syringe;
+or
+▪ after diluting according to the following instructions:
+▪ the final infusion concentration should range between 1 and 10 mg/mL.
+▪ the total volume of infusion must not exceed 160 mL. For patients weighing less than 40 kg,
+the total volume of infusion must not exceed 4 mL per kilogram of patient weight.
+▪
+
+OPDIVO concentrate may be diluted with either:
+▪ sodium chloride 9 mg/mL (0.9%) solution for injection; or
+▪ 50 mg/mL (5%) glucose solution for injection.
+
+STEP 1
+▪ Inspect the OPDIVO concentrate for particulate matter or discoloration. Do not shake the vial.
+OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid. Discard the vial if
+the solution is cloudy, is discoloured, or contains particulate matter other than a few
+translucent-to-white particles.
+▪ Withdraw the required volume of OPDIVO concentrate using an appropriate sterile syringe.
+STEP 2
+▪ Transfer the concentrate into a sterile, evacuated glass bottle or intravenous container (PVC or
+polyolefin).
+▪ If applicable, dilute with the required volume of sodium chloride 9 mg/mL (0.9%) solution for
+injection or 50 mg/mL (5%) glucose solution for injection. For ease of preparation, the concentrate
+can be transferred directly into a pre-filled bag containing the appropriate volume of sodium
+chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
+▪ Gently mix the infusion by manual rotation. Do not shake.
+Administration
+OPDIVO infusion must not be administered as an intravenous push or bolus injection.
+12
+
+Administer the OPDIVO infusion intravenously over a period of 30 or 60 minutes depending on
+the dose.
+OPDIVO infusion should not be infused at the same time in the same intravenous line with other
+agents. Use a separate infusion line for the infusion.
+Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size
+of 0.2 μm to 1.2 μm).
+OPDIVO infusion is compatible with:
+▪ PVC containers
+▪ Polyolefin containers
+▪ Glass bottles
+▪ PVC infusion sets
+▪ In-line filters with polyethersulfone membranes with pore sizes of 0.2 µm to 1.2 µm.
+After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%)
+solution for injection or 50 mg/mL (5%) glucose solution for injection.
+Storage conditions and shelf life
+Unopened vial
+OPDIVO must be stored in a refrigerator (2°C to 8°C). The vials must be kept in the original
+package in order to protect from light. OPDIVO should not be frozen.
+The unopened vial can be stored at controlled room temperature up to 25°C with room light for up to
+48 hours.
+Do not use OPDIVO after the expiry date which is stated on the carton and on the vial label after EXP.
+The expiry date refers to the last day of that month.
+OPDIVO infusion
+Chemical and physical in-use stability from the time of preparation has been demonstrated as follows
+(times are inclusive of the administration period):
+
+Infusion preparation
+Undiluted or diluted with sodium
+chloride 9 mg/mL (0.9%) solution
+for injection
+Diluted with 50 mg/mL (5%)
+glucose solution for injection
+
+Chemical and physical in-use stability
+Storage at 2ºC to 8ºC Storage at room temperature
+protected from light
+(≤ 25°C) and room light
+30 days
+
+24 hours
+(of total 30 days storage)
+
+7 days
+
+8 hours
+(of total 7 days storage)
+
+From a microbiological point of view the prepared solution for infusion, regardless of the diluent,
+should be used immediately. If not used immediately, in-use storage times and conditions prior to use
+are the responsibility of the user and would normally not be longer than 7 days at 2°C to 8°C or
+8 hours (of the total 7 days of storage) at room temperature (≤ 25°C). Aseptic handling should be
+ensured during the preparation of infusion.
+Disposal
+Do not store any unused portion of the infusion solution for reuse. Any unused medicine or waste
+material should be disposed of in accordance with local requirements.
+
+13
+
+
