@@ -1,8 +1,20 @@
-# Zipf's Law Of Abbreviation: Computational Morphosyntax Exercise 1
-Repository of Exercise 1 <br>
-This repository uses Python 3.12.9 as its main coding language, and the libraries needed to run the code are: <br>
--Spacy 3.8.4 <br>
--Pandas 2.2.3 <br>
--Pathlib 1.0.1 <br>
--Seaborn 0.13.2 <br>
--Matplotlib 3.10.0 <br>
+# Zipf’s Law of Abbreviation in Medical Leaflets  
+
+This repository investigates **Zipf’s Law of Abbreviation**, which posits that shorter words tend to appear more frequently in a language. The study analyzes whether this trend holds in **Spanish and English drug leaflets**, a domain rich in long medical terms and complex syntax.  
+
+## Methodology used in the code.py file
+- **Corpus:** Leaflets of the 10 most sold drugs in Spain and the USA.  
+- **Tokenization:** Processed using **SpaCy** with language-specific models.  
+- **Analysis:** Words were categorized by length and their frequency was plotted using **Seaborn**.  
+
+## Key Findings  
+- In **English**, word frequency decreases **linearly** with length.  
+- In **Spanish**, frequency decreases **more abruptly and exponentially**.  
+- These differences may be influenced by **morphology** and **phonetic vs. historical orthography**.  
+- The results support Zipf’s law as a **tendency** rather than a strict rule.  
+
+## Repository Contents  
+📄 **Spanish and English corpora**  
+📊 **Plotted results**  
+📜 **Python script** for preprocessing 
+📦 **`requirements.txt`** for dependencies
