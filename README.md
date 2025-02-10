@@ -14,7 +14,7 @@ This repository investigates **Zipf’s Law of Abbreviation**, which posits that
 - The results support Zipf’s law as a **tendency** rather than a strict rule.  
 
 ## Repository Contents  (All in the "PROSPECTOS" directory)
-📄 **Spanish and English corpora**: ENG and ESP directories
+📄 **Spanish and English corpora**: ENG and ESP directories <br>
 📊 **Plotted results**: freq_eng.png & freq_esp.png  
 📜 **Python script**: code.py  
 📦 **`requirements.txt`** for dependencies
