@@ -13,8 +13,8 @@ This repository investigates **Zipf’s Law of Abbreviation**, which posits that
 - These differences may be influenced by **morphology** and **phonetic vs. historical orthography**.  
 - The results support Zipf’s law as a **tendency** rather than a strict rule.  
 
-## Repository Contents  
-📄 **Spanish and English corpora**  
-📊 **Plotted results**  
-📜 **Python script** for preprocessing 
+## Repository Contents  (All in the "PROSPECTOS" directory)
+📄 **Spanish and English corpora**: ENG and ESP directories
+📊 **Plotted results**: freq_eng.png & freq_esp.png  
+📜 **Python script**: code.py  
 📦 **`requirements.txt`** for dependencies
